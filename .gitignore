@@ -1,0 +1,8 @@
+# Java
+*.class
+*.log
+.idea/
+*.iml
+out/
+target/
+bin/
